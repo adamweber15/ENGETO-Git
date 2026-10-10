@@ -1,2 +1,12 @@
 # ENGETO-Git
 TEST Repozitář
+
+git config  --global user.name ""
+git config --global user.email ""
+
+git status - zobrazí změněné a staged soubory
+git diff - ukáže konkrétní změny
+git add .
+git commit -m ""
+
+edit z githubu
