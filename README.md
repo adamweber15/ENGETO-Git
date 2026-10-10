@@ -12,3 +12,5 @@ git commit -m ""
 edit z githubu
 
 edit z VS Code
+
+Druhý test pomocí AI
