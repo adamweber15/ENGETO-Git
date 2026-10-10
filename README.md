@@ -14,3 +14,5 @@ edit z githubu
 edit z VS Code
 
 Druhý test pomocí AI
+
+Test z GitHUBu 2 
