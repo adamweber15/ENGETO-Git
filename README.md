@@ -10,3 +10,5 @@ git add .
 git commit -m ""
 
 edit z githubu
+
+edit z VS Code
